@@ -1,4 +1,4 @@
-👋 Hi, I’m @c0ldlasagna. I'm currently a first year electrical engineering student at Universitas Indonesia
+👋 Hi, I’m @c0ldlasagna.
 
 
 <!---
